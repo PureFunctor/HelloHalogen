@@ -1,0 +1,29 @@
+{
+  "name": "hellohalogen",
+  "version": "1.0.0",
+  "description": " Getting started with PureScript's Halogen and Frontend Development",
+  "main": "dev/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "parcel ./dev/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PureFunctor/HelloHalogen.git"
+  },
+  "keywords": [
+    "PureScript"
+  ],
+  "author": "PureFunctor",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/PureFunctor/HelloHalogen/issues"
+  },
+  "homepage": "https://github.com/PureFunctor/HelloHalogen#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
