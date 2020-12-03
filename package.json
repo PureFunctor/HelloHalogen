@@ -25,5 +25,8 @@
   "homepage": "https://github.com/PureFunctor/HelloHalogen#readme",
   "devDependencies": {
     "parcel": "^1.12.4"
+  },
+  "dependencies": {
+    "bulma": "^0.9.1"
   }
 }
