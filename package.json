@@ -8,6 +8,7 @@
   },
   "scripts": {
     "dev": "parcel ./dev/index.html",
+    "build": "spago build && parcel build ./dev/index.html --out-dir ./static --public-url ./static --no-source-maps",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
